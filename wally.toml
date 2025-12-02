@@ -1,0 +1,9 @@
+[package]
+name = "22aispro/weighter-rbx"
+description = "Simple and easy weight system"
+authors = ["22a", "al_ex427 (for wally package)"]
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
